@@ -1,0 +1,42 @@
+@import url(bootstrap.min.css);
+@import url(font-awesome.min.css);
+
+		.table-row {
+			color: #fff;
+			background-color: #00a;
+		}
+		#logo {color: #ffffff;}
+
+		.jumbotron {width:60%;
+		text-align: center;
+		margin-top: 10%;
+		background-color: rgba(255, 255, 255, .4);
+		margin-left:20%;
+		}
+
+		.nav a {
+			color:red;
+		}
+
+		footer { text-align: center;}
+
+
+		/*p { color: #f55; font-size: 24px; text-shadow: 2px 3px #0f0;}
+		*/
+		#special { color: #000; }
+		#welcome { background-image: url( ../images/tokyo.jpg); 
+		background-repeat: no-repeat;
+		background-size: cover;
+		height: 800px;
+	}
+		ul { list-style-type: none;}
+		ul li { display: inline;}
+	html, body { height: 100%; }
+	.full-height { height: 100%; }
+	.nav a {
+		color: #030;
+		font-size: 2em; 
+		
+	}
+
+	
